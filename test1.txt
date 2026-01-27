@@ -1,6 +1,11 @@
 aaaaaa
 bbbbbb
 cccccc
+these are a
+bunch of new
+lines which
+are not in conflict
+with anything else
 dddddd
 eeeeee
 ffffff
